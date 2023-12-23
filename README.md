@@ -4,21 +4,7 @@
 Overview
 
 This project analyzes the Citi Bike ridership data for the years 2019 and 2023. The analysis aims to understand the changes in ridership patterns, popular stations, membership distributions, and trip durations, before and after COVID-19.
-Directory Structure:
 
-project_root/
-│
-├── src/
-│   └── CitiBikeAnalysis.scala  # Main Scala script for analysis
-│
-└── data/
-    ├── 201809-citibike-tripdata.csv  # Data for 2019
-    └── JC-202309-citibike-tripdata.csv  # Data for 2023
-
-Prerequisites:
-	  Apache Spark installed and configured.
-	  Access to HDFS (Hadoop Distributed File System).
-	  Input data files placed in the specified HDFS directory.
 
 How to Build:
 
